@@ -3,7 +3,7 @@ function Profile() {
   return <img src="https://i.imgur.com/MK3eW3Am.jpg" alt="Katherinen Johnson" ></img>
 }
 
-export default function Fallery () {
+export default function Gallery () {
   return(
     <div>
       <h1>Amazing Nono</h1>
